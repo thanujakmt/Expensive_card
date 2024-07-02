@@ -18,7 +18,7 @@ function App() {
               <p className='text-Very_pale_orange text-[1.8em] font-[600]'>$921.48</p>
             </div>
             <div>
-              <img src="public/images/logo.svg" alt=""/>
+              <img src="/images/logo.svg" alt=""/>
             </div>
           </div>
           <div className="spending  h-[500px] w-[330px] md:w-[510px] bg-Very_pale_orange rounded-[10px]">
